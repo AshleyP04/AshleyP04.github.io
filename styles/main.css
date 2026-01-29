@@ -3,7 +3,20 @@ body {
     font-size: 100%;
     margin-left: 10px;
 }
+
 a:hover, a:focus {
      font-style:italic;
      color: teal;
+}
+
+header h1 {
+    font-size: 175%;
+    color:sienna
+    text-indent: 30px;
+}
+
+header h2 {
+    font-size: 130%;
+    color: #c66537;
+    text-indent: 30px;
 }
