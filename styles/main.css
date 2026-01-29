@@ -20,3 +20,11 @@ header h2 {
     color: #c66537;
     text-indent: 30px;
 }
+
+header img {
+    float: left;
+}
+
+main {
+    clear: left;
+}
