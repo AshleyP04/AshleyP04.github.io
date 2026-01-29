@@ -25,6 +25,10 @@ header img {
     float: left;
 }
 
+.shadow{
+    text-shadow: 2px 2px 2px rgb(109, 55, 30);
+}
+
 main {
     clear: left;
 }
