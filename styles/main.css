@@ -8,6 +8,7 @@ body {
     margin: 15px auto;
     width: 1000px;
     background-color: white;
+    padding: 15px 1.5em;
 }
 
 a:hover, a:focus {
