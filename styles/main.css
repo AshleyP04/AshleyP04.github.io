@@ -51,7 +51,7 @@ main h3 {
     font-size: 105%;
 }
 
-ul #list {
+ul #list li {
     line-height: 1.5em;
 }
 
