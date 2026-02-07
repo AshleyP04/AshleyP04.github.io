@@ -45,3 +45,16 @@ header img {
 main {
     clear: left;
 }
+
+main h3 { 
+    margin-top: 3em;
+}
+
+#list {
+    line-height: 1.5em;
+}
+
+footer p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
