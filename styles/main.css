@@ -36,6 +36,11 @@ header h2 {
 
 header img {
     float: left;
+    margin-left: 2em;
+}
+
+header {
+    margin-bottom: 3em;
 }
 
 .shadow{
@@ -56,6 +61,26 @@ main h3 {
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
     font-size: 105%;
+}
+
+main nav {
+    margin-top: 1.5em 2em;
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box shadow: 3px 3px 4px 4px;
+    padding: 0.5em;
+}
+
+main div.contact {
+    margin-top: 1.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 0em;
+    border: 5px dotted blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
+
 }
 
 ul #list li {
