@@ -56,9 +56,9 @@ main h3 {
     margin-left: 2em;
     margin-right: 2em;
     margin-bottom: 1.5em;
-    border: 5px double blue;
+    border: 5px double #fcf7e6;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px #e2cd89;
     padding: 1em;
     font-size: 105%;
 }
