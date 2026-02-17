@@ -92,6 +92,6 @@ footer {
 footer p.fixed {
     width: auto;
     height: 200px;
-    position: fixed 100em;
+    position: fixed;
     color: lime;
 }
