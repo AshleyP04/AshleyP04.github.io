@@ -94,6 +94,7 @@ p.fixed {
     width: auto;
     height: 200px;
     position: fixed;
-    bottom: 50px;
-    color: lime;
+    bottom: 30px;
+    right: 15px;
+    background-color: lime;
 }
