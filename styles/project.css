@@ -1,0 +1,48 @@
+html {
+    background-image: linear-gradient(white 0%, #facd8a 100%);
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 15px auto;
+    width: 1000px;
+    background-color: white !important;
+    padding: 15px 1.5em;
+    border: 1px solid #3a312a;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background: url("/images/pixelhappyface.png") right repeat-y;
+    background-size: 25%;
+    background-attachment: fixed;
+}
+
+a:hover, a:focus {
+     font-style:italic;
+     color: teal;
+}
+
+header h1 {
+    font-size: 250%;
+    color:sienna;
+    text-indent: 30px;
+}
+
+header h2 {
+    font-size: 150%;
+    color: #c66537;
+    text-indent: 30px;
+}
+
+header img {
+    float: left;
+    margin-left: 2em;
+}
+
+header {
+    margin-bottom: 3em;
+}
+
+.shadow{
+    text-shadow: 2px 2px 2px rgb(109, 55, 30);
+}
