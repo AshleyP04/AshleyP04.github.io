@@ -92,13 +92,10 @@ footer {
 
 p.fixed {
     width: auto;
-    height: 30px;
     position: fixed;
     bottom: 30px;
     right: 15px;
     background-color: lightgreen;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
     padding-left: .5em;
     padding-right: .5em;
 }
