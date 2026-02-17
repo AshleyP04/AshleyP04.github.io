@@ -89,7 +89,7 @@ footer {
     border-top: 2px solid maroon;
 }
 
-footer p.fixed {
+footer .fixed p {
     width: auto;
     height: 200px;
     position: fixed;
