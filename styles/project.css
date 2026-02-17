@@ -43,6 +43,7 @@ header img {
 
 header {
     margin-bottom: 3em;
+    border-bottom: 2px solid maroon;
 }
 
 .shadow{
