@@ -96,6 +96,5 @@ p.fixed {
     bottom: 30px;
     right: 15px;
     background-color: lightgreen;
-    padding-left: .5em;
-    padding-right: .5em;
+    padding: 1.5em;
 }
