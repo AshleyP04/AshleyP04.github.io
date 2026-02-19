@@ -1,5 +1,5 @@
 html {
-    background-image: linear-gradient(white 0%, #facd8a 100%);
+    background-image: linear-gradient(to bottom white 0%, #facd8a 100%);
 }
 
 body {
@@ -64,10 +64,7 @@ main h3 {
 }
 
 main nav {
-    margin-top: 1.5em;
-    margin-left: 2em;
-    margin-right: 2em;
-    margin-bottom: 1.5em;
+    margin: 1.5em 2em;
     border: 5px dashed blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
