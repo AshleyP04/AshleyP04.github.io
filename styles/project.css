@@ -80,7 +80,7 @@ article p::first-letter {
 aside {
     width: 20%;
     float: right;
-    background-color: bisque;
+    background-color: #ffe4c4;
     padding: 10px;
 }
 
@@ -97,4 +97,5 @@ p.fixed {
     right: 15px;
     background-color: lightgreen;
     padding: 1.5em;
+    border: #56b656 2px;
 }
