@@ -1,0 +1,13 @@
+body {
+    width: 95%;
+    margin: 15px auto;
+    background-image: images/astronaut.jpg fixed;
+}
+
+article {
+    width: 75%;
+}
+
+aside {
+    width: 20%;
+}
