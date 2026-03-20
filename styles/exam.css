@@ -4,7 +4,7 @@ body {
     background-image: url(/images/astronaut.jpg);
     background-repeat: repeat-y;
     background-size: 150px;
-    background-position: fixed right;
+    background-position: right;
 }
 
 article {
