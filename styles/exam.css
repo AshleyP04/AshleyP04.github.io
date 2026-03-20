@@ -15,8 +15,8 @@ article {
 
 aside {
     width: 20%;
-    border-radius: 2em;
-    border-width: 3px;
+    border-radius: 5px;
+    border-width: 2px;
     border-color: blue;
     border-style:solid;
     background-color: rgb(173, 216, 230);
