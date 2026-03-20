@@ -1,7 +1,7 @@
 body {
     width: 95%;
     margin: 15px auto;
-    background-image: url(/images/astronaut.jpg);
+    background-image: url(/images/astronaut.jpg) repeat fixed 300px;
 }
 
 article {
