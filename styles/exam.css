@@ -16,5 +16,6 @@ article {
 aside {
     width: 20%;
     border-radius: 10em;
-    border-width: 3px; 
+    border-width: 3px;
+    border-color: blue;
 }
