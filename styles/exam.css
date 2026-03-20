@@ -4,7 +4,9 @@ body {
     background-image: url(/images/astronaut.jpg);
     background-repeat: repeat-y;
     background-size: 350px;
-    background-position: right
+    background-position: right;
+    border-width: 3em;
+    border-color: blue;
 }
 
 article {
@@ -13,4 +15,6 @@ article {
 
 aside {
     width: 20%;
+    border-radius: 10em;
+    border-width: 1em; 
 }
