@@ -14,10 +14,14 @@ body {
     background-image: url(/images/astronaut.jpg) !important;
 }
 
+article img {
+    clear: left;
+    float: left;
+}
+
 article {
     width: 75%;
 }
-
 aside {
     width: 20%;
     border-width: 2px;
