@@ -22,5 +22,11 @@ aside {
 }
 nav ul {
     list-style: none;
-    font-style: none;
+}
+
+nav ul li {
+    float: left;
+    display: block;
+    background-color: blue;
+    color: white;
 }
