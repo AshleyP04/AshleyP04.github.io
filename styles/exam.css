@@ -34,9 +34,6 @@ aside {
     position: fixed;
 }
 
-nav {
-    border-bottom: blue 3px solid;
-}
 nav ul {
     list-style: none;
 }
@@ -67,6 +64,7 @@ article {
     clear: left;
     text-align: center;
     padding: 30px;
+    border-top: blue 3px solid
 }
 
 footer {
