@@ -94,3 +94,10 @@ h2 {
     padding: 1em;
     padding-bottom: 2em;
 }
+
+aside ol {
+    list-style: lower-roman;
+}
+aside li {
+    list-style: circle;
+}
