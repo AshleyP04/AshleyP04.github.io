@@ -38,7 +38,8 @@ aside {
     border-color: blue;
     border-style:solid;
     background-color: rgb(173, 216, 230);
-    position: fixed -200 -200;
+    position: fixed;
+    right: 20px;
 }
 
 nav ul {
