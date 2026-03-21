@@ -60,7 +60,8 @@ nav ul li a.current {
 
 article {
     clear: left;
-    padding: 10em
+    text-align: center;
+    padding: auto;
 }
 
 footer {
