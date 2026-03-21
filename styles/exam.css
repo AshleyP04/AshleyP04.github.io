@@ -2,7 +2,7 @@ body {
     width: 95%;
     margin: 15px auto;
     background-image: linear-gradient(lightblue white);
-    background-color: white !important;
+    background-color: white;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: 350px;
