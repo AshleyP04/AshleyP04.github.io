@@ -38,3 +38,7 @@ nav ul li a {
 nav ul li a.lastitem {
     border-right: none;
 }
+
+article {
+    clear: left;
+}
