@@ -32,6 +32,6 @@ aside ul {
     list-style-type: square;
 }
 
-article {
+nav_menu ul li {
     clear: left; 
 }
