@@ -17,11 +17,11 @@ body {
 article img {
     clear: left;
     float: left;
-    scale: 100px;
+    size: 50%;
 }
 
 article {
-    width: 75%;
+    width: 75%i
     column-count: 3;
     column-rule: blue dashed 3px;
     clear: left;
