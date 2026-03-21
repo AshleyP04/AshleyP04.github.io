@@ -73,3 +73,7 @@ article {
 footer {
     text-align: center;
 }
+
+aside {
+    position: fixed 300px 300px;
+}
