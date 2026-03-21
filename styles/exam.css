@@ -28,7 +28,8 @@ article {
     clear: left;
     text-align: center;
     padding: 50px;
-    border-top: blue 3px solid;
+    border-top: blue 2px solid;
+    border-bottom: blue 2px solid;
     font-family: Arial, Helvetica, sans-serif;
 }
 aside {
