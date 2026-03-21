@@ -31,7 +31,7 @@ aside {
     border-color: blue;
     border-style:solid;
     background-color: rgb(173, 216, 230);
-    position: fixed 300px 300px;
+    position: fixed;
 }
 
 nav {
