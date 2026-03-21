@@ -20,3 +20,10 @@ aside {
     border-style:solid;
     background-color: rgb(173, 216, 230);
 }
+nav ul {
+    list-style: none;
+}
+
+nav ul ol a {
+    font-style: none;
+}
