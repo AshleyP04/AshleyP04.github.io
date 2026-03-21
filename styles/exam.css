@@ -2,8 +2,9 @@ body {
     width: 95%;
     margin: 15px auto;
     background-image: url(/images/astronaut.jpg) !important;
-    background-image: linear-gradient(on lightblue 100% white 0)
+    background-image: linear-gradient(on lightblue 100% white 0);
     background-repeat: repeat-y;
+    background-attachment: fixed;
     background-size: 350px;
     background-position: right;
     border: black 1px solid;
