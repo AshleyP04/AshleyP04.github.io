@@ -17,7 +17,8 @@ body {
 article img {
     clear: left;
     float: left;
-    size: 50%;
+    width: 50%;
+    height: auto;
 }
 
 article {
