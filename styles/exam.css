@@ -1,7 +1,11 @@
+html{
+    background-image: linear-gradient(to right, white 0%, lightblue 100%);
+}
 body {
     width: 95%;
     margin: 15px auto;
-    background-image: linear-gradient(to right lightblue, white);
+    background-image: url(/images/oldspacestation.webp);
+    background-color: white !important;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: 350px;
@@ -11,7 +15,6 @@ body {
     border-bottom: black 5px solid;
     border-left: black 1px solid;
     border-radius: 10px;
-    background-image: url(/images/oldspacestation.webp) !important;
 }
 
 article img {
