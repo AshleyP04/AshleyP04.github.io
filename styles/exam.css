@@ -67,6 +67,10 @@ article {
     border-top: blue 3px solid
 }
 
+article p::first-letter {
+    font-size: 200%;
+}
+
 footer {
     text-align: center;
 }
