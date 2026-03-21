@@ -1,7 +1,11 @@
 #nav_menu ul {
     list-style-type: none;
 }
-#nav_menu li {
+#nav_menu ul li {
+    float: left;
+}
+
+#nav_menu li a {
     text-align: center;
     display: block;
     width: 175px;
