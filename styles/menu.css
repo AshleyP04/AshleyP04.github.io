@@ -33,5 +33,5 @@ aside ul {
 }
 
 article {
-    float:clear left; 
+    clear: left; 
 }
