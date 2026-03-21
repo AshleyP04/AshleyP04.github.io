@@ -1,7 +1,7 @@
 body {
     width: 95%;
     margin: 15px auto;
-    background-image: linear-gradient(from left lightblue 80% white 20%);
+    background-image: linear-gradient(to right lightblue, white);
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-size: 350px;
