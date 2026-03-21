@@ -35,8 +35,6 @@ aside {
 }
 
 nav {
-    padding-left: 2em;
-    padding-right: 2em;
     border-bottom: blue 3px solid;
 }
 nav ul {
