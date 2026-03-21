@@ -22,6 +22,9 @@ aside {
 }
 nav ul {
     list-style: none;
+}
+
+nav ul li {
     text-decoration-style: none;
 }
 
