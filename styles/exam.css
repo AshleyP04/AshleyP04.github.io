@@ -101,3 +101,7 @@ aside ol {
 aside ul {
     list-style: circle;
 }
+
+aside ul ol {
+    list-style: lower-latin;
+}
