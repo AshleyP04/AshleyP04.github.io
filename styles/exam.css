@@ -39,7 +39,8 @@ aside {
     border-style:solid;
     background-color: rgb(173, 216, 230);
     position: fixed;
-    right: 20px;
+    bottom: 100px;
+    left: 300px
 }
 
 nav ul {
