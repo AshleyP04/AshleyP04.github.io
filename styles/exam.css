@@ -30,3 +30,7 @@ nav ul li {
     background-color: blue;
     color: white;
 }
+
+nav ul li a.lastitem {
+    border-right: none;
+}
