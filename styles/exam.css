@@ -69,6 +69,7 @@ article {
 
 article p::first-letter {
     font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 footer {
