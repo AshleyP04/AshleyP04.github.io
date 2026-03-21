@@ -98,6 +98,6 @@ h2 {
 aside ol {
     list-style: lower-roman;
 }
-aside li {
+aside ul {
     list-style: circle;
 }
