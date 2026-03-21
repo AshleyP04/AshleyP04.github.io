@@ -34,7 +34,8 @@ aside {
 }
 
 nav {
-    padding: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
     border-bottom: blue 3px solid;
 }
 nav ul {
