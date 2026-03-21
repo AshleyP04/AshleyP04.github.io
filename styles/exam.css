@@ -54,10 +54,11 @@ nav ul li a.lastitem {
     border-right: none;
 }
 
-nav ul li a.currentitem {
+nav ul li a.current {
     color: yellow;
 }
 
 article {
     clear: left;
 }
+
