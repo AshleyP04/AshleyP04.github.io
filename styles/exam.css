@@ -21,7 +21,7 @@ article img {
 
 article {
     width: 75%;
-    columns: 3;
+    column-count: 3;
 }
 aside {
     width: 20%;
