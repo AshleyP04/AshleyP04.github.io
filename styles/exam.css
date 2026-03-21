@@ -21,7 +21,6 @@ article img {
 }
 
 article {
-    border-top: blue solid 3px;
     width: 75%;
     column-count: 3;
     column-rule: blue dashed 3px;
@@ -32,6 +31,11 @@ aside {
     border-color: blue;
     border-style:solid;
     background-color: rgb(173, 216, 230);
+}
+
+nav {
+    padding: 2em;
+    border-bottom: blue 3px solid;
 }
 nav ul {
     list-style: none;
