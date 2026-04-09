@@ -122,6 +122,7 @@ footer {
     font-size: .8em;
 }
 
+@media screen and (max-width: 700px) {
 .menu-button-container {
     display: flex;
 }
@@ -133,7 +134,6 @@ footer {
     left: 0;
     flex-direction: column;
     width: 100%;
-    max-width: 700px;
     justify-content: center;
     align-items: center;
 }
@@ -159,7 +159,6 @@ footer {
     margin: 0;
     padding: 0.5em 0;
     width: 100%;
-    max-width: 700px;
     color: white;
     background-color: #222;
 }
@@ -180,4 +179,5 @@ footer {
     padding-top: .5em;
     text-align: center;
     font-size: .6em;
+}
 }
