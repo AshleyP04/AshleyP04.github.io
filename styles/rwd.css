@@ -177,6 +177,7 @@ article p {
 }
 footer {
     border-top: 1px solid #f46b45;
+    margin-top: 1px;
     text-align: center;
     font-size: .6em;
 }
