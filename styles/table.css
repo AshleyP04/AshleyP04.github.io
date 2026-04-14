@@ -62,6 +62,7 @@ table.third caption, table.third th {
 table.third td {
     padding: .5em;
     vertical-align: top;
+    border-collapse: collapse;
 }
 
 table.third tr:first-child {
