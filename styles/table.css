@@ -44,3 +44,11 @@ table.second th, table.second td {
 table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
+
+/*------------------------------------------*/
+
+table.third caption {
+    background-color: lightgreen;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+}
