@@ -56,9 +56,6 @@ table.third caption, table.third thead {
     padding: .5em; 
     font-weight: bold;
     border: none;
-}
-table.third th {
-    margin: 0;
     border-collapse: collapse;
 }
 table.third td {
