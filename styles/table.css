@@ -48,7 +48,6 @@ table.second thead tr:first-child{
 /*------------------------------------------*/
 
 table.third {
-    border-top: orangered 2px solid;
     border-bottom: orangered 2px solid;
     border-collapse: collapse;
 }
@@ -68,7 +67,7 @@ table.third tr:first-child {
     border-bottom: 2px orangered solid;
 }
 
-table.third th tr:first-child {
+table.third th tr:first-child caption{
     border-top: 2px solid orangered;
 }
 
