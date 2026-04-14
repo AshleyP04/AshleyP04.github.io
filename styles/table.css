@@ -55,6 +55,8 @@ table.third caption, table.third th {
     background-color: lightgreen;
     padding: .5em; 
     font-weight: bold;
+    border: 2px lightgreen solid;
+    border-collapse: collapse;
 }
 
 table.third td {
@@ -67,11 +69,6 @@ table.third tr:first-child {
     border-right: 2px lightgreen solid;
     border-top: 2px lightgreen solid;
     border-bottom: 2px orangered solid;
-    border-collapse: collapse;
-}
-
-table.third th {
-    border: 2px lightgreen solid;
     border-collapse: collapse;
 }
 
