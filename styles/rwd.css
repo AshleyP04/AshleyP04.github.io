@@ -93,7 +93,7 @@ section a {
     color: white;
 }
 
-.menu a:hover, a.current {
+.menu a:hover, li.current {
     text-decoration: underline;
 }
 
