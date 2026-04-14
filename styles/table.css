@@ -67,7 +67,7 @@ table.third tr:first-child {
     border-bottom: 2px orangered solid;
 }
 
-table.third th tr:first-child caption{
+table.third th tr:first-child, table.third caption {
     border-top: 2px solid orangered;
 }
 
