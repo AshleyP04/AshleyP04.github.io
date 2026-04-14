@@ -51,11 +51,11 @@ table.third {
     border-bottom: orangered 2px solid;
 }
 
-table.third caption, table.third th {
+table.third caption, table.third thead {
     background-color: lightgreen;
     padding: .5em; 
-    vertical-align: middle;
     font-weight: bold;
+    border: none;
 }
 table.third th {
     margin: 0;
