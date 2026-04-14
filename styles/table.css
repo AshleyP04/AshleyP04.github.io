@@ -57,6 +57,7 @@ table.third caption, table.third th {
     border-bottom: orange 2px solid;
     padding: .5em; 
     vertical-align: middle;
+    font-weight: bold;
 }
 table.third th {
     margin: 0;
