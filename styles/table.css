@@ -55,13 +55,13 @@ table.third tr:last-child{
     border-bottom: orange 2px solid;
 }
 
-table.third th {
-    border: none;
-}
-
 table.third caption, table.third th {
     background-color: lightgreen;
     border-bottom: orange 2px solid;
     padding: .5em; 
     vertical-align: middle;
+}
+
+table.third th {
+    border: 
 }
