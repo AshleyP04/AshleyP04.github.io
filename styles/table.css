@@ -63,3 +63,6 @@ table.third th {
     margin: 0;
     border-collapse: collapse;
 }
+table.third td {
+    padding .5em;
+}
