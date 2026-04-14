@@ -49,6 +49,7 @@ table.second thead tr:first-child{
 
 table.third {
     border-bottom: orangered 2px solid;
+    border-collapse: collapse;
 }
 
 table.third caption, table.third th {
@@ -56,13 +57,11 @@ table.third caption, table.third th {
     padding: .5em; 
     font-weight: bold;
     border: 2px lightgreen solid;
-    border-collapse: collapse;
 }
 
 table.third td {
     padding: .5em;
     vertical-align: top;
-    border-collapse: collapse;
 }
 
 table.third tr:first-child {
@@ -70,7 +69,6 @@ table.third tr:first-child {
     border-right: 2px lightgreen solid;
     border-top: 2px lightgreen solid;
     border-bottom: 2px orangered solid;
-    border-collapse: collapse;
 }
 
 table.third th tr:first-child {
