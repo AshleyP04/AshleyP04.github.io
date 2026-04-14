@@ -63,7 +63,7 @@ table.third td {
 }
 
 table.third tr:first-child {
-    border: 0;
+    border: 2px lightgreen solid;
     border-bottom: 2px orangered solid;
     border-collapse: collapse;
 }
