@@ -52,3 +52,9 @@ table.third caption {
     border-top: orange 2px solid;
     border-bottom: orange 2px solid;
 }
+
+table.third th {
+    background-color: lightgreen;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+}
