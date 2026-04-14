@@ -63,8 +63,15 @@ table.third td {
 }
 
 table.third tr:first-child {
-    border: 2px lightgreen solid;
+    border-left: 2px lightgreen solid;
+    border-right: 2px lightgreen solid;
+    border-top: 2px lightgreen solid;
     border-bottom: 2px orangered solid;
+    border-collapse: collapse;
+}
+
+table.third th {
+    border: 2px lightgreen solid;
     border-collapse: collapse;
 }
 
