@@ -47,13 +47,6 @@ table.second thead tr:first-child{
 
 /*------------------------------------------*/
 
-table.third caption, table.third th {
-    background-color: lightgreen;
-    border-bottom: orange 2px solid;
-    padding: .5em; 
-    vertical-align: middle;
-}
-
 table.third caption {
     border-top: orange 2px solid;
 }
@@ -64,4 +57,11 @@ table.third tr:last-child{
 
 table.third th {
     border: none;
+}
+
+table.third caption, table.third th {
+    background-color: lightgreen;
+    border-bottom: orange 2px solid;
+    padding: .5em; 
+    vertical-align: middle;
 }
