@@ -57,3 +57,7 @@ table.third caption, table.third th {
 table.third caption {
     border-top: orange 2px solid;
 }
+
+table.third tr:last-child{
+    border-bottom: orange 2px solid;
+}
