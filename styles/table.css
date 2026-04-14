@@ -63,5 +63,7 @@ table.third caption, table.third th {
 }
 
 table.third th {
-    border: 
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
 }
