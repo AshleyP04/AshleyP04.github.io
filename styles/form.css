@@ -53,6 +53,6 @@ textarea {
     width: 10em;
 }
 
-input[name="Submit"] {
-    padding-left: 10em;
+#submit {
+    margin-left: 20%;
 }
