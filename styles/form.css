@@ -51,4 +51,5 @@ textarea {
 
 #buttons input { 
     width: 10em;
+    position: fixed center;
 } 
