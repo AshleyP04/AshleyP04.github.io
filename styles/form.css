@@ -53,6 +53,6 @@ textarea {
     width: 10em;
 }
 
-#buttons {
-    padding: auto;
+input[name="Submit"] {
+    padding-left: 10em;
 }
