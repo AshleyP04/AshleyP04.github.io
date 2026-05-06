@@ -50,5 +50,6 @@ textarea {
 } 
 
 #buttons input { 
-    width: 10em; 
+    width: 10em;
+    justify-content: center; 
 } 
